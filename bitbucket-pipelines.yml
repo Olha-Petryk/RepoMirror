@@ -8,4 +8,4 @@ pipelines:
         script:
           - git clone --bare git@bitbucket.org:5t6y7u8i9o0p/git_bit.git
           - cd git_bit.git
-          - git push  github.com:Olha-Petryk/GitBit.git
+          - git push  git@github.com:Olha-Petryk/GitBit.git
