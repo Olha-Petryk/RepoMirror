@@ -7,6 +7,6 @@ pipelines:
           enabled: false
         script:
           - git clone --bare git@bitbucket.org:5t6y7u8i9o0p/git_bit.git
-          - cd Mirror-from-Bitbucket.git
-          - git push  git@github.com:Olha-Petryk/Mirror-from-Bitbucket.git
+          - cd Bitbucket.git
+          - git push  git@github.com:Olha-Petryk/Bitbucket.git
           
