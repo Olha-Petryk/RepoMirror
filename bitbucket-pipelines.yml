@@ -10,3 +10,4 @@ pipelines:
           - cd git_bit.git
           - git push  --mirror git@github.com:Olha-Petryk/Mirror.git
           
+          
