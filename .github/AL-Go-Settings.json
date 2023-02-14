@@ -1,4 +1,7 @@
 {
   "type": "AppSource App",
-  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main"
+  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
+   "environments": [
+                        "Mirror"
+                   ]
 }
